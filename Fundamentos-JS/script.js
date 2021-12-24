@@ -16,7 +16,7 @@ if (b%2 == 1){
       alert("Número ímpar");
 }
 else if (c%2 == 0){
-      alert("Número par");
+      alert("Número par")
 }
 else {
       alert("Número par");
